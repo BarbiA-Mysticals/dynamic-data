@@ -4,6 +4,8 @@ const express = require('express')
 
 const app= express()
 // import a package for handlebars 
+//specify static routes 
+app.use(express.static('public'))
 const expressHandlebars = require('express-handlebars')
 //make express use the handlebars template engine
 app.engine('handlebars', expressHandlebars.engine({
@@ -12,20 +14,32 @@ app.engine('handlebars', expressHandlebars.engine({
 app.set('view engine', 'handlebars')
 
 const PORT = process.env.port || 3000
+// Import app-wide data
+const gallery = require("./data/gallery.json")
 //process route, before error
 app.get('/',(request,response)=>{
-    
-    response.render('home')
+    console.log(gallery)
+    response.render('landing', {
+        gallery, 
+        title: "This is Miami!!!", 
+        abstract: "Miami is a great place to live.", 
+        image: "image1.jpg" })
 })
 
 app.get('/about',(request,response)=>{
-    response.render('about')
+    response.render('page', {
+        title: "About Miami",
+        abstract: "Everything about Miami."
+    })
 })
 
 app.get('/arcades',(request,response)=>{
-    response.type('text/plain')
-    response.send('Arcades places in Miami')
+    response.render('page', {
+        title: "Arcades at Miami",
+        abstract: "Enjoy a fun night at Miami!!."
+    })
 })
+
 
 app.get('/beaches',(request,response)=>{
     response.type('text/plain')

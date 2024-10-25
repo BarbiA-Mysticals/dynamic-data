@@ -1,0 +1,84 @@
+{
+    "tittle":"Welcome To Venice!",
+    "abstract":"Venice is a stunning, magical city built on a series of over 100 small islands in a lagoon on the Adriatic Sea. Famous for its intricate network of canals, Venice is a unique blend of history, art, and romance. The Grand Canal, the city’s main waterway, winds through the heart of Venice, lined with palaces and historic buildings that showcase centuries of Venetian wealth and influence. Iconic landmarks like St. Mark's Basilica, the Doge's Palace, and the Rialto Bridge draw visitors, while the city's narrow alleys, charming squares, and vibrant art scene offer endless surprises. With no cars, Venice feels like a place frozen in time, where gondolas glide gracefully through the canals, creating an unforgettable atmosphere.",
+    "image":"/images/venicecity.jpg",
+    "services":[
+        {"title": "Transportation",
+        "intro":"You can move around Venice with these transports.",
+        "list":["Walking","Gondolas","Vaporetto(Water Bus)"],
+        "image":"/images/homepage/venicegondolas.jpg"
+        },
+
+        {"title": "Tours",
+        "intro":"You can know more about Venice with these tours.",
+        "list":["Classic Walking Tours: Walking tours are one of the best ways to explore Venice’s historic streets and learn about its rich past. These tours usually take you through iconic landmarks and hidden corners of the city.",
+        "Canal and Gondola Tours: A gondola ride is a quintessential Venetian experience, and several tours offer this romantic journey through the city's canals. In addition to private gondola rides, there are also guided boat tours that provide more context and history.",
+        "Food and Wine Tours: Venetian cuisine is distinct, and food tours are a fantastic way to taste local flavors while learning about the city’s culinary traditions. These tours take you through Venice’s food markets, bacari (wine bars), and traditional restaurants."],
+        "image":"/images/homepage/venicesky.jpg"
+        },
+
+        {"title": "Museums",
+        "intro":"Venice is home to a wealth of museums that showcase its rich history, stunning art, and unique culture.",
+        "list":["Gallerie dell' Academia: This museum houses the most important collection of Venetian painting from the 14th to the 18th century. With masterpieces by renowned artists like Titian, Tintoretto, Veronese, and Bellini, the Gallerie dell'Accademia offers an in-depth look at the evolution of Venetian art.",
+        "Museo del Palazzo Ducale: Once the residence of the Doges of Venice, this stunning Gothic palace is now a museum that offers a glimpse into the political and cultural history of the Venetian Republic. Visitors can explore the grand halls, stunning artwork, and the infamous prison cells connected by the Bridge of Sighs.",
+        "Museo Correr: Situated in St. Mark’s Square, the Museo Correr is dedicated to the history and art of Venice. It houses an extensive collection of paintings, artifacts, and historical documents that trace the city's development from its origins to the modern era."],
+        "image":"/images/homepage/maninmuseum.jpg"
+        },
+
+        {"title": "Dining",
+        "intro":"Enjoy your culinary journey through Venice! Each dining experience offers a taste of the city’s rich culture and history.",
+        "list":["Trattoria Al Gatto Nero: Located on the picturesque island of Burano, this trattoria is known for its vibrant atmosphere and delicious homemade pasta. The restaurant's colorful exterior is as inviting as its traditional Venetian dishes.",
+        " Ristorante Da Ivo: A favorite among celebrities and locals alike, Da Ivo offers a luxurious dining experience just a stone’s throw from St. Mark's Square. The elegant setting and impeccable service complement a menu filled with classic Venetian and Italian dishes.",
+        " Osteria: Vini da Arturo: Tucked away in the charming neighborhood of Dorsoduro, this small osteria is known for its relaxed atmosphere and hearty portions. The menu features an array of Venetian classics, all prepared with love and tradition.s"],
+        "image":"/images/diningtable.jpg"
+        }
+
+
+    ],
+    "packages":[
+            {"title":"Venice Carnival Mask-Making Class in Venice, Italy By Venice Tours Srl",
+            "description":"Venice is known for its beautiful decorative masks, and this hands-on experience gives you the opportunity to make your own. The lesson is led by a master artisan, so you learn about the Venetian Carnival traditions and special techniques that have been perfected in Venice over many years. Then, fire up your artistic skills to create your own mask to take home.",
+            "image":"/images/maskworkshop.jpg",
+            "price":"75.85 per person",
+            "duration":"1 hour 15 minutes "
+        },
+
+        {"title":"Basilica di San Marco",
+            "description":"Blending the architectural styles of East and West, Venice's magnificent basilica was consecrated in 832 AD as an ecclesiastical building to house the remains of St. Mark.",
+            "image":"/images/basilicadisanmarco.jpg",
+            "price":"16.49 per person",
+            "duration":"less than 1 hour"
+        },
+
+        {"title":"Venice: Jewish Ghetto & Cannaregio Area Food Tour: Pasta Wine Gelato and More! By Raphael Tours in Venice",
+            "description":"See a different side of Venice during a food tour that reveals the highlights and hidden gems of the Jewish Ghetto. Ideal for travelers that have already ticked off the City of Water’s main sights, this walking tour offers a more intimate glimpse into the area than you’d get on a boat, and comes with enough tastings to amount to a full meal.",
+            "image":"/images/jewishghetto.jpg",
+            "price":"4 hours",
+            "duration":"130.81 per person"
+        },
+
+        {"title":"Piazza San Marco",
+            "description":"It is said that Napoleon called San Marco (the drawing room of Europe). And it is a breathtakingly beautiful place. But the square has long been a lure for massive numbers of pigeons, drawn by the massive numbers of tourists who readily feed them. While the tourists happily post for photos amid the flock, there are concerns that the birds' presence--and what they leave behind--will damage the centuries old architecture and art work.",
+            "image":"/images/piazza.jpg",
+            "price":"1-2 hours",
+            "duration":"16.49 per person"
+        },
+
+        {"title":"Murano & Burano Islands Guided Small-Group Tour by Private Boat By City Wonders",
+            "description":"The islands of Murano and Burano, with their artisan glass and lace workshops, are just a ferry ride from Venice, and visitors won’t want to miss either. On this tour, delve into the practice and history of two of Venice’s great artisan traditions by visiting glassblowers in Murano and traditional lace-making workshops in lesser-known Burano. Get an authentic look at Italian traditions that have lasted for centuries with a guide.",
+            "image":"/images/muranoburano.jpg",
+            "price":"53.86 per person",
+            "duration":"5 hours"
+        },
+
+        {"title":"Venice Full-Day Guided Tour From Milan By TAOTRAVEL",
+            "description":"Make the most of your time in northern Italy and spend a day visiting the iconic city of Venice. Depart from your Milan hotel in the early morning for your journey to Venice. When you arrive, take a guided tour around important landmarks including San Marco’s square and basilica, the Rialto Bridge, and the Bridge of Sighs. Then, enjoy free time to stroll the canals before heading back to Milan.",
+            "image":"/images/venicetour",
+            "price":"141.80 per person",
+            "duration":"14 hours"
+        }
+
+
+            
+        ]
+}

@@ -1,0 +1,11 @@
+{{!-- . row class from bootstrap's grid --}}
+
+<div class="row gallery">
+    {{!-- Our image loop --}}
+    {{#each gallery.images}}
+    <div class="col-3 galleryItem">
+        <img class="img-fluid card-img-top" src="{{this.url}}" alt="{{this.title}}">
+    </div>
+    {{/each}}
+    
+</div>

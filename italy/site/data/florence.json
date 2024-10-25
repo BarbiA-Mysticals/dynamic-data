@@ -1,0 +1,80 @@
+{
+    "tittle":"Welcome To Florence!",
+    "abstract":"Florence, or Firenze in Italian, is a city rich in history, culture, and art, located in the heart of Tuscany, Italy. Known as the birthplace of the Renaissance, it boasts iconic landmarks like the Duomo with its stunning dome designed by Brunelleschi, the Uffizi Gallery, and the Ponte Vecchio, a medieval stone bridge lined with shops. Florence was home to influential figures like Dante, Michelangelo, and Leonardo da Vinci, whose legacies are woven into the city’s vibrant fabric. Today, it remains a hub of art, fashion, and history, drawing visitors from around the world to experience its timeless charm.",
+    "image":"/images/gallery/florencelandscape.jpg",
+    "services":[
+        {"title": "Transportation",
+        "intro":"You can explore Florence using these transportation:",
+        "list":["Walking","Trams","buses"],
+        "image":"/images/tram.jpg"
+        },
+
+        {"title": "Tours",
+        "intro":"You can know more about Florence with these tours.",
+        "list":["Historical Tours: Imagine yourself in the heart of the Renaissance. You walk through the Piazza della Signoria, where the statues of great heroes stand as guardians of Florence's past. Some of the most popular walking tours begin right here. A guide may take you along these timeworn streets, narrating tales of power, intrigue, and the Medici family, who ruled Florence with both an iron hand and an unmatched love for the arts."
+        ,"Gourmet Tours: Florence isn’t only about art and architecture—it’s also about indulging the senses in a different way. Many visitors opt for gourmet and wine tours that take them beyond the city’s main attractions and into the heart of Tuscan cuisine. You might find yourself on a tour that leads to the vibrant Mercato Centrale, the central market, where Florence’s culinary heritage is on full display. You’ll stroll through stalls overflowing with fresh fruits, vegetables, meats, and cheeses, all sourced from the surrounding Tuscan countryside."
+        ,"Florence at Evening: As the sun sets over Florence, the city takes on a magical glow. Evening tours offer a more intimate, serene view of the city. The streets are quieter, the crowds thinner, and Florence’s famous landmarks shimmer under the night sky. One popular evening tour takes you to Piazzale Michelangelo, a hilltop terrace that offers panoramic views of the city. From here, you can watch the sunset over the Arno River, casting a golden hue over the terracotta roofs and the Duomo’s majestic dome."],
+        "image":"/images/florenceEvening.jpg"
+        },
+
+        {"title": "Museums",
+        "intro":"Florence, often considered the cradle of the Renaissance, is home to some of the world’s most famous museums, housing masterpieces that have shaped the course of Western art.",
+        "list":["Uffizi Gallery: If you’re visiting Florence, one of your must-see stops is the Galleria dell'Accademia, which houses one of the most famous sculptures in the world: Michelangelo’s David. This colossal statue, standing at over 17 feet tall, is a masterpiece of Renaissance sculpture, showcasing Michelangelo’s extraordinary ability to convey human emotion and physical perfection in marble.","Bargello Museum: For sculpture lovers, the Bargello Museum is an absolute gem. Housed in a medieval fortress, the Bargello is Florence’s main museum for Renaissance sculpture, and its atmosphere feels quite different from the other art galleries in the city. As you walk through its stone halls, you’re transported back to a time when this building served as a prison and military barracks. The museum’s collection includes works by Donatello, Michelangelo, Ghiberti, and Giambologna.", "Museo dell'Opera del Duomo: This museum is a hidden treasure, located just behind Florence’s Duomo (Cathedral of Santa Maria del Fiore). The Museo dell'Opera del Duomo tells the story of the cathedral’s construction and houses many of its original artworks, sculptures, and architectural elements."],
+        "image":"/images/mary.jpg"
+        }, 
+
+        {"title": "Wines",
+        "intro":"Florence is not only a haven for art lovers, but also a paradise for wine enthusiasts. Surrounded by the rolling hills of Tuscany, one of Italy’s most famous wine regions, the city offers countless opportunities to sip and savor world-class wines.",
+        "list":["Enoteca Pitti Gola e Cantina: Located just across from the grand Palazzo Pitti, Enoteca Pitti Gola e Cantina is a small, intimate wine bar with a reputation for its highly curated wine selection. The owners are passionate sommeliers who take pride in offering lesser-known, high-quality wines, with a special focus on small Tuscan producers. Their wine list includes a fantastic array of Brunellos, Chianti Classicos, and Super Tuscans, alongside other rare finds.",
+        " Le Volpi e L’Uva: This quaint enoteca, just steps away from the iconic Ponte Vecchio, is a local favorite for its approachable, down-to-earth atmosphere and incredible wine selection. Le Volpi e L’Uva is renowned for focusing on small, lesser-known producers and offering an array of regional wines not just from Tuscany, but from all over Italy. They take pride in offering reasonably priced wines without compromising on quality.",  
+        " Il Santino: For those seeking a blend of wine and delicious Tuscan bites, Il Santino is a perfect spot. Located in the Oltrarno neighborhood, this charming wine bar is known for its rustic, cozy vibe and fantastic selection of wines by the glass. The menu is seasonal, offering artisanal charcuterie, cheeses, bruschetta, and other small plates that pair beautifully with the wines."],
+        "image":"/images/wine.jpg"
+        }
+
+
+
+    ],
+    "packages":[
+            {"title":"Small-Group Wine Tasting Experience in the Tuscan Countryside by Prestige Rent",
+            "description":"No visit to Florence is complete without a trip to the Tuscan countryside. Alleviate the hassle of public transport or renting a car on a stress-free day trip to the Chianti wine region, a convenient way to escape the city. Travel with ease between two Chianti wineries, and sample local wine and Tuscan specialties, all of which are included in this tour price. Plus, a small group limited to 25 means you receive personalized attention from your guide.",
+            "image":"/images/winery.jpg",
+            "price":"97.98 per person",
+            "duration":"from 8:46 if booked for 9:00 am or 2:15pm if booked for 2:30pm"
+            },
+
+            {"title":"Skip the line: Uffizi and Accademia Small Group Walking Tour by Florence and Global Small Group Tours",
+            "description":"Get the benefits of a small-group tour at an affordable price point with this best-of-Florence sampler limited to just 10-15 people. Hear the stories behind Michelangelo’s ‘David’ at the Accademia, marvel at the massive Duomo, and step inside the palatial Uffizi Gallery, all without waiting in the notoriously long lines. Headsets and a smaller group size mean you won't miss a word of your guide’s insightful commentary.",
+            "image":"/images/smallGroup.jpg",
+            "price":"140.63 per person",
+            "duration":"4 hours"
+            },
+
+            {"title":"Florence Accademia Gallery Tour with Entrance Ticket Included by Thigs To Do In",
+            "description":"As the host of Michelangelo's seminal sculpture of 'David,' it comes as no surprise that Florence's Accademia Gallery attracts large crowds. Save yourself hours of waiting in line on a tour that includes skip-the-line admission ticket to the gallery. Plus, exploring with a guide means that you get the historical context that’s crucial to understanding the paintings and sculptures on display.",
+            "image":"/images/statue.jpg",
+            "price":"52.84 per person",
+            "duration":"1 hour and 15 minutes"
+            },
+
+            {"title":"Semi-Private Tour: Siena, Wine tour and San Gimignano by Cool Tours - Day Tour ",
+            "description":"Delight in the flavors of Tuscany on a small-group wine-tasting tour from Florence. Travel with a sommelier guide through the beautiful countryside, stopping at an award-winning winery for a cellar tour and tasting of regional varietals. Stop for lunch at a small farm and winery, where you’ll enjoy a traditional picnic spread of fresh local products along with tastings of wine and olive oil. Finish the day with a stroll through a medieval hilltop town with spectacular views. Group size is limited to 8 for a more personalized experience.",
+            "image":"/images/siena.jpg",
+            "price":"203.66 per person",
+            "duration":"8 hours"
+            },
+
+            {"title":"Florence Skip-the-Line Duomo Tour with Guide & Brunelleschi Dome By Fat Tire Tours - Florence",
+            "description":"Florence’s world-renowned landmarks attract lines that reflect their global popularity. Save yourself hours of waiting with a skip-the-line admission ticket for the climb up to the top of the dome, where there are unbeatable views of Florence. You'll also take a guided tour of the cathedral museum, which is home to priceless masterpieces, and access a private terrace that's not always open to the public.",
+            "image":"/images/florencetour.jpg",
+            "price":"52.84 per person",
+            "duration":"1 hour and 15 minutes"
+            },
+
+            {"title":"Florence Sunset Food & Wine Tour with Eating Europe By Florence Food Tours by Eating Europe",
+            "description":"Sample Florence's rich culinary heritage including historic wine windows and the finest Tuscan specialties. Indulge in fresh pasta cooked, traditional Tuscan soup, and other local delicacies, all while tasting its rich culture and flavors. Plus, visit a centuries-old wine cellar, several wine windows and sample a variety of wine and cocktails.",
+            "image":"/images/WineWindow.jpg",
+            "price":"144.00 per person",
+            "duration":"3 hours and 30s minutes"
+            }
+        ]
+}

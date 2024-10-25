@@ -1,0 +1,22 @@
+{
+  "name": "italy-travel",
+  "version": "1.0.0",
+  "description": "a travel website about Italy",
+  "main": "italy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "travel",
+    "fun",
+    "italy",
+    "museums",
+    "historical"
+  ],
+  "author": "Barbara Griffin",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.0",
+    "express-handlebars": "^8.0.1"
+  }
+}

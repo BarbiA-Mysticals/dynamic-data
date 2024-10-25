@@ -1,0 +1,81 @@
+{
+    "tittle":"Welcome To Italy!",
+    "abstract":"Italy is a dream destination, offering a rich tapestry of history, art, and culture. In Rome, the iconic Colosseum, the majestic Vatican City with St. Peter's Basilica, and the ancient Pantheon transport visitors back to the grandeur of the Roman Empire. Venice enchants with its romantic Grand Canal, the stunning St. Mark’s Basilica, and the magical Rialto Bridge, perfect for a gondola ride. In Milan, you’ll find the towering Duomo di Milano, the masterpiece of The Last Supper by Leonardo da Vinci, and the stylish Galleria Vittorio Emanuele II. Florence, the birthplace of the Renaissance, dazzles with Florence Cathedral (Duomo), Ponte Vecchio, and Uffizi Gallery, home to some of the world’s most renowned artworks.",
+    "image":"/images/italyRiver.jpg",
+    "services":[
+        {"title": "Transportation",
+        "intro":"Italy provides a variety of transportaion to travel around the country.",
+        "list":["Train","Metro","Ferry"],
+        "image":"/images/metro.jpg"
+        },
+
+        {"title": "Tours",
+        "intro":"You can know more about Italy with these tours.",
+        "list":["Historical: Italy is steeped in history, and a visit to its ancient cities and ruins is like stepping back in time.",
+        "Art: For art lovers, Italy is a paradise. From the Renaissance masterpieces to the Baroque wonders, these tours focus on the artistic heritage of cities like Florence, Venice, and Rome.",
+        "Nature: Beyond the cultural riches, Italy offers breathtaking natural landscapes, perfect for adventure and nature enthusiasts.",
+        "Pilgrimages: Italy is home to some of the most significant religious sites in Christianity, making it a popular destination for pilgrimage tours."
+         ],
+        "image": "/images/nature.jpg"
+        },
+
+        {"title": "Museums",
+        "intro":"Italy is home to some of the world's most significant museums, housing an unparalleled collection of art, history, and culture.",
+        "list":["Vatican Museums","Uffizi Gallery","Gallerie Dell'Academia"],
+        "image":"/images/museums.jpg"
+        },
+
+        {"title": "Dining",
+        "intro":"Italy is renowned for its exceptional cuisine, and dining there is more than just a meal; it’s an experience rooted in centuries-old traditions.",
+        "list":["Oateria Francescana: One of the most famous restaurants in the world, Osteria Francescana blends tradition and innovation.","La Pergola: Situated on the roof of the Rome Cavalieri Hotel, La Pergola offers breathtaking views of Rome alongside its world-class cuisine.","Il Luogo di Aimo e Nadia: This iconic Milanese restaurant has been serving up a mix of tradition and creativity for over 50 years."],
+        "image":"/images/homepage/dining.jpg"
+        }
+
+    ],
+    "packages":[ 
+        {"title":"Rome - Florence - Venice by Train",
+        "description":"Visit these fascinating cities starting in: Rome (the Eternal City, with its stunning architecture like the Colosseum and the Roman Forum and delicious food) after that, travel north to Florence (capital of Italy’s Tuscany region, is home to many masterpieces of Renaissance art and architecture) and finally, to Venice (set on gorgeous canals, intimate Gondola rides will guide you past sumptuous palaces and under sculpted bridges). Travel between these cities by very convenient train rides which allow you an opportunity to observe the lovely country side. ",
+        "image":"/images/RomeVeniceFlorence.jpg",
+        "price":"449 per Night",
+        "duration":"7 - 10 days"
+    },
+
+    {"title":"Charms of Italy (Florence - Rome - Sorrento - Venice)",
+        "description":"Take Italy into your own hands!, with this customizable package combining train transfers and a Rental Car. Start in Venice (sumptuous palaces and romantic waterways), after that, trains will take to Florence (an artists dream: Michelangelo`s David, Botticelli`s Birth of Venus, and Raphael`s La Velata) and Rome (Italy`s treasure with two millennia of artistic achievement). From here, catch your Rental Car and drive along Sorrento (situated on an expansive stretch of cliff, among lemon and olive groves with stunning vistas).",
+        "image":"/images/charmsItaly.jpg",
+        "price":"539 per night",
+        "duration":"8 days"
+    },
+
+    {"title":"From Venice to Rome via Tuscany plus Amalfi Coast",
+        "description":"Sample all that Italy has to offer from north to south, take your vacation into your own hands with the convenience of a rental car! Start off with a visit to beautiful Venice (charming canals, gorgeous palaces). Then pick up your car for a drive to Pisa (famous for its leaning Tower); continue to artistic Florence (home to the statue of David, and the famous Birth of Venus). Afterwards visit mystical Assisi, then drive down to charming Sorrento and finally visit Imperial Rome(the Vatican, centuries of artistic achievement).This is a flexible vacation package.",
+        "image":"/images/venicetorome.jpg",
+        "price":"559 per night ",
+        "duration":"7 days"
+    },
+
+    {"title":"Rome - Florence and The Chianti Wine Region",
+        "description":"Main cities, charming villages with great fine wine in Italy!. Enjoy a nice stay in Rome (the Eternal City, with its stunning architecture like the Colosseum and the Roman Forum and delicious food), after that, continue by train to Florence (capital of Italy’s Tuscany region, is home to many masterpieces of Renaissance art and architecture). From there, with a Rental Car, leap up to the charming Chianti Wine Region (offering a unique landscape, with green, gentle hills covered with wide fields of vineyards and olive groves, small stone villages, characteristic parishes and countryside homes in stone and of course, its worldwide Chianti Wine, made primarily with Sangiovese grapes). Drive back to Florence to drop off the car and finisht this trip with one last night stay.",
+        "image":"/images/chiantiwineregion.jpg",
+        "price":"539 per night",
+        "duration":"9 - 13+ days "
+    },
+
+    {"title":"Rome and Athens by Air",
+        "description":"Combine Italy and Greece with this customizable fantastic vacation package!. Enjoy wonderful stays at Rome (the Eternal City, with its stunning architecture like the Colosseum and the Roman Forum and delicious food) and Athens (the cradle of civilization and home of democracy). A flight connects these cities.",
+        "image":"/images/athens.jpg",
+        "price":"309 per night.",
+        "duration":"6 - 9+ days"
+    },
+
+    {"title":"Rome - Lecce - Bari by Train",
+        "description":"A journey through beautiful cities in Italy`s Puglia Region!. From Rome (the Eternal City, with its stunning architecture like the Colosseum and the Roman Forum and delicious food) travel to Lecce (renowned for its beautiful historical structures such as the Basilica di Santa Croce, the Porta Napoli and the Duomo) and finally, visit Bari (a major hub on mainland Southern Italy and well known as a port, university city, as well as the city of Saint Nicholas). These destinations are connected by trains.",
+        "image":"/images/lecce.jpg",
+        "price":"616 per night",
+        "duration":"9 - 13 days"
+    }
+
+
+            
+        ]
+}

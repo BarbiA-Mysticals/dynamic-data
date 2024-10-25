@@ -1,0 +1,50 @@
+/* ul li{
+
+
+}
+
+
+p{
+
+} */
+
+/* Target Elements using classes */
+.green-bg{
+    background-color: #49c768;
+}
+
+.white-bg{
+
+    background-color: #ffffff;
+
+}
+
+.txtFont{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #ff0000;
+}
+  
+
+.linkFont{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.card-img-top {
+    aspect-ratio: 4/3;
+    object-fit: cover;
+}
+
+.cardBody{
+    font-family:'Courier New', Courier, monospace ;
+    background-color: #e72821da;
+
+}
+
+.TabsBody{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #215243;
+}
+
+.txtBody{
+    font-family: 'Courier New', Courier, monospace;
+}

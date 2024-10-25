@@ -1,0 +1,82 @@
+{
+    "tittle":"Welcome To Rome!",
+    "abstract":"Rome, the Eternal City, is a place where ancient history and modern life blend seamlessly. Known for its iconic landmarks like the Colosseum, the Pantheon, and the Roman Forum, Rome is a city steeped in thousands of years of culture and civilization. It was the heart of the mighty Roman Empire, shaping much of Western history, politics, and art. Today, its cobblestone streets, lively piazzas, and timeless architecture create an atmosphere where every corner tells a story of emperors, gladiators, and Renaissance masters, making Rome a living museum that captivates every traveler.",
+    "image":"/images/peter.jpg",
+    "services":[
+        {"title": "Transportation",
+        "intro":"You can move around Rome with these transports.",
+        "list":["Bikes","Scooter","Walking"],
+        "image":"/images/homepage/romenight.jpg"
+        },
+
+        {"title": "Tours",
+        "intro":"You can know more about Rome with these tours.",
+        "list":["Ancient Rome: Rome's ancient ruins are its most iconic features, and there are numerous tours that will take you back to the time of emperors and gladiators.",
+        "Art: For art lovers, Rome’s museums, churches, and palaces are a dream come true.",
+        "Themed Tours: Rome has an endless array of themed walking tours, perfect for exploring the city through a particular lens."],
+        "image":"/images/basilica.jpg"
+        },
+
+        {"title": "Museums",
+        "intro":"Rome is home to an incredible variety of museums, reflecting its rich history, art, and culture. ",
+        "list":["Vatican Museums: One of the largest museum complexes in the world, the Vatican Museums house an extensive collection of art, archaeology, and ethno-anthropology gathered by the Catholic Church. Highlights include the Sistine Chapel, the Raphael Rooms, and the Gallery of Maps.",
+        "Capitoline Museums: Perched on Capitoline Hill, these are the oldest public museums in the world, dating back to 1471. The collection includes ancient Roman statues, Renaissance art, and the famous bronze statue of the She-Wolf suckling Romulus and Remus.", 
+        "Palazzo Barberinin: The Barberini Palace is home to one of Rome’s most important collections of Old Masters, including works by Caravaggio, Titian, and Holbein. The palace itself is a magnificent example of Baroque architecture."],
+        "image":"/images/capitolineshe-wolf.jpg"
+        },
+
+        {"title": "Dining",
+        "intro":"Dining in Rome is not just about the food—it’s a way to immerse yourself in the city's vibrant culture and enjoy a shared experience with locals. Whether you're indulging in a bowl of pasta at a corner trattoria or enjoying an aperitivo in a sun-soaked piazza, every meal in Rome tells a story. ",
+        "list":["Testaccio: This working-class neighborhood is the birthplace of many Roman dishes, including coda alla vaccinara (oxtail stew). It’s home to some of the city’s best traditional eateries, like Trattoria Perilli.",
+        "Trastevere: A charming district with narrow, cobbled streets and a bohemian vibe, Trastevere is filled with lively trattorias, bars, and street food vendors. Da Augusto is a no-frills spot known for its authentic Roman food.",
+        "Monti: The Monti neighborhood is packed with cozy wine bars and trendy restaurants. Ai Tre Scalini is a local favorite for its wine selection and casual small plates, while Le Tavernelle serves up classic Roman pasta dishes."
+        ],
+        "image":"/images/dinner.jpg"
+        }
+
+    ],
+    "packages":[
+            {"title":"3 in 1 Cooking Class near Navona: Fettuccine, Ravioli & Tiramisu By Eat and Walk Italy",
+            "description":"Take a break from sightseeing and delve into Italy's beloved cuisine with this pasta and tiramisù cooking class in the heart of Rome. Roll up your sleeves and learn how to roll and fill fresh pasta like a pro plus pick up techniques for assembling a flawless tiramisù in a restaurant kitchen right on Piazza Navona. End by feasting on the dishes you've prepared, served with wine, limoncello, and coffee.",
+            "image":"/images/pastaclasses.jpg",
+            "price":"69.47 per person",
+            "duration":"3 hours"
+        },
+
+            {"title":"Skip-the-Line Vatican, Sistine Chapel & St. Peter's | Small Group By What a Life Tours",
+            "description":"If you’re not sure what you’re looking for, you can easily spend a day getting lost in the Vatican in Rome—not ideal if you’ve got limited time in Italy. Ensure you only see the best of the Vatican, and save hours waiting in line, on a skip-the-line tour that also includes access to St. Peter’s Basilica. Explore in a small group with an English speaking guide.",
+            "image":"/images/sistinechapel.jpg",
+            "price":"97.83 per person",
+            "duration":"3 hours"
+            },
+
+            {"title":"Rome Trastevere Food Tour at Twilight By Rome Food Tours by Eating Europe",
+            "description":"The pioneering Food Tour of Trastevere! For 12 years now we have been giving VIP access to the hottest and most unique food venues in the neighborhood. Be sure to join us for an unforgettable night! Get exclusive access to two of Rome’s most famous restaurants.",
+            "image":"/images/foodtour.jpg",
+            "price":"97.83 per person",
+            "duration":"3 hours"
+            },
+
+            {"title":"Pantheon",
+            "description":"Dedicated to the seven planetary divinities and featuring an interior of gorgeous marble, the Pantheon is one of the most impressive monuments of Augustan Rome.",
+            "image":"/images/pantheon.jpg",
+            "price":"14.28 per person",
+            "duration":"1-2 hours"
+            },
+
+            {"title":"Palatine Hill",
+            "description":"The commercial, political and religious center of ancient Rome, which features the Arch of Septimus Severus, Temple of Saturn, Arch of Titus and the House of the Vestals.",
+            "image":"/images/palatinehill.jpg",
+            "price":"31.33 per person",
+            "duration":"2-3 hours"
+            },
+
+            {"title":"Catacombs of Saint Callixtus by TOURISTATION",
+            "description":"Official underground cemetery of the Church of Rome in the 3rd century AD. Around half a million Christians were buried here, among them many martyrs and 16 popes. They are named after the deacon St. Callixtus who, at the beginning of the 3rd century AD, was assigned by Pope Zephyrinus to the administration of the cemetery. Since 1930 they have been entrusted to the custody of the Salesians of Don Bosco.",
+            "image":"/images/catacombs.jpg",
+            "price":" 59.36 per person",
+            "duration":"2-3 hours"
+            }
+            
+        ]
+}

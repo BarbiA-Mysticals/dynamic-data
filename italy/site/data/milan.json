@@ -1,0 +1,82 @@
+{
+    "tittle":"Welcome To Milan",
+    "abstract":"Milan, located in the northern part of Italy, is a global hub of fashion, design, and finance. It’s the capital of the Lombardy region and Italy’s second most populous city. Renowned for its rich history, cultural heritage, and modern lifestyle, Milan is a blend of ancient and contemporary influences.",
+    "image":"/images/milanchurch.jpg",
+    "services":[
+        {"title": "Transportation",
+        "intro":"You can move around Milan with thwse transportaiton.",
+        "list":["Taxi","Ride-sharing","bus"],
+        "image":"/images/taxi.jpg"
+        },
+
+        {"title": "Tours",
+        "intro":"You can know more about Milan with these tours.",
+        "list":["Historical: Historical Walking Tours: These tours guide you through Milan’s rich history, visiting iconic landmarks such as the Duomo di Milano, Galleria Vittorio Emanuele II, and Castello Sforzesco. Guides often share fascinating stories and historical anecdotes."
+        ,"Art:  Explore Milan's vibrant art scene, including visits to the Pinacoteca di Brera and Santa Maria delle Grazie to see Leonardo da Vinci’s The Last Supper. These tours often delve into the works of famous artists and the city’s artistic heritage."
+        ,"Gourmet: Experience Milanese cuisine by joining a food tour that includes tastings of local specialties such as risotto alla milanese, ossobuco, and various cheeses. Many tours take you through the city’s markets, bakeries, and traditional eateries."],
+        "image":"/images/milanchurch2.jpg"
+        },
+
+        {"title": "Museums",
+        "intro":"Milan is home to a diverse array of museums, each showcasing the city’s rich cultural heritage, artistic innovation, and historical significance.",
+        "list":["Pinacoteca di Brera: One of the most important art galleries in Italy, the Pinacoteca di Brera houses an extensive collection of Italian Renaissance art."
+        ,"Museo del Novecento: Dedicated to 20th-century art, the Museo del Novecento is located near the Duomo and showcases works by Italian and international artists."
+        ,"Galleria d'Arte Moderna (GAM): The Galleria d'Arte Moderna is home to an impressive collection of 19th and early 20th-century Italian art.."],
+        "image":"/images/bust.jpg"
+        },
+
+        {"title": "Dining",
+        "intro":"Milan is a culinary paradise, offering a diverse range of dining experiences that reflect its rich cultural heritage and modern flair.",
+        "list":["Trattoria Milanese: Located near the canals, this cozy trattoria is famous for its authentic Milanese dishes. Try the Risotto alla Milanese, a saffron-infused rice dish, or Ossobuco, a slow-cooked veal shank served with gremolata."
+        ,"Cracco: Helmed by celebrity chef Carlo Cracco, this Michelin-starred restaurant offers innovative Italian cuisine with a contemporary twist. The tasting menu features seasonal ingredients and artistic presentations, making for a memorable dining experience."
+        ,"Niko Romito Space:This restaurant, led by renowned chef Niko Romito, presents a unique blend of traditional Italian flavors and modern techniques. The minimalist decor allows the dishes to shine, with an emphasis on fresh ingredients and refined flavors."],
+        "image":"/images/diningOutside.jpg"
+        }
+
+    ],
+
+    "packages":[
+         {"title":"Milan Super Saver: Skip-the-Line Duomo and Rooftop Guided Tour: By Veditalia - Day Tours",
+         "description":"The Duomo of Milan is one of the world’s great Gothic cathedrals, so make the most of your visit there with this skip-the-line-tour. Save valuable vacation time by heading straight inside, and by taking an elevator (rather than stairs) to the rooftop terrace for marvelous views of Milan. Along the way, hear guide commentary about the sights, including an underground crypt accessed by a marble staircase.",
+         "image":"/images/milanchurch3.jpg",
+         "price":"69.25 per person",
+         "duration":"2 hours and 30 mimutes"
+        },
+
+        {"title":"Historic Milan Tour with Skip-the-Line Last Supper Ticket By Wander in Italy",
+        "description":"See Milan’s highlights in just a single day on this guided tour, which visits the UNESCO-listed monastery of Santa Maria delle Grazie, home to Leonardo Da Vinci’s iconic 'Last Supper,' the Sforza Castle, the Milan Cathedral, and the Galleria Vittorio Emanuele II. With an art historian guide, learn the stories behind the masterpieces, and because the tour is limited to a small group, you get plenty of personal attention.",
+        "image":"/images/historicmilan.jpg",
+        "price":"101.13 per person",
+        "duration":"3 hours"
+        },
+
+        {"title":"Best of Milan Experience Including Da Vinci's The Last Supper and Milan Duomo By Veditalia - Day Tours",
+        "description":"Fitting Milan’s must-sees and its Leonardo da Vinci trail into one day demands careful planning. This tour makes it easy, with skip-the-line entry to Milan Cathedral (Duomo), plus visits to sights such as Piazza Mercanti and Sforza Castle. Afterward, enjoy your choice of fast-track access to da Vinci’s The Last Supper or a visit to his personal 15th-century vineyard. As it’s a small-group tour, you enjoy a more intimate atmosphere, too.",
+        "image":"/images/milantour.jpg",
+        "price":"148.80 per person",
+        "duration":"6 hours"
+        },
+
+        {"title":"Gnocchi, Pasta, Tiramisù and Wine Class By Cooking class Milano",
+        "description":"With the help of a native and experienced chef, you will learn all the secrets about Italian food. You'll learn, with a hands-on experience, how to make 3 dishes from start to finish, and you'll be able to enjoy what you created! During the class, we'll talk about the most common mistakes that one can make when preparing a typical Italian dish and you'll be able to ask any question about Italian food and traditions.You'll get recommendations about the best restaurants and markets in the area and the best products to buy to take home. All of this in a fun, yet professional environment, with a chef that will help you during the whole experience!",
+        "image":"/images/cookingclass.jpg",
+        "price":"130.81 per person",
+        "duration":"3 hours"
+        },
+
+        {"title":"Lake Como, Lugano, & Prealps with chocolate tasting. Small group By Abroads Tours",
+        "description":"Escape the bustling streets of Milan and head to the tranquil landscapes of Lake Como and Lake Lugano on this small-group adventure. Cruise past opulent villas and learn about their notable residents, visit the serene village of Torno, and indulge in Swiss chocolate in Lugano. Discover Como's rich history and admire Lugano's scenic beauty on this lovely day trip.",
+        "image":"/images/laketour.jpg",
+        "price":"152.80 per person",
+        "duration":"9-11 hours"
+        },
+
+        {"title":"From Milan: Private Boat Cruise to Lake Como, Lugano and Bellagio By Wander in Italy",
+        "description":"Lake Como and Lake Lugano are two of the most scenic Alpine lakes in northern Italy, but the logistics of visiting are tricky. With this tour, save time with full-day transport directly from Milan and head straight to Lake Como for a guided walk through Varenna and Bellagio, plus a mini cruise to admire the lake’s villas. Then continue on to Lake Lugano to visit Lugano and marvel at its mountain views.",
+        "image":"/images/lakeComo.jpg",
+        "price":"109.93 per person",
+        "duration":"10 hours"
+        }
+            
+        ]
+}

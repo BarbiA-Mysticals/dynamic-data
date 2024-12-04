@@ -6,6 +6,7 @@
     "products":[
         {
             "id":1,
+            "category":1,
             "name":"Colored Rose Oil Painting Brush",
             "description":"Oil Painting Gradient Blusher housed in a oval compact with an ornate, antique-inspired oil painting. The ultra-fine powder features a three-color gradient to achieve a natural, diffused flush of color on the cheeks. Choose from four blush gradient variations.",
             "price":"10.50",

@@ -1,0 +1,103 @@
+{  
+    
+    "Name": "Blush",
+
+
+    "products":[
+        {
+            "id":1,
+            "name":"Colored Rose Oil Painting Brush",
+            "description":"Oil Painting Gradient Blusher housed in a oval compact with an ornate, antique-inspired oil painting. The ultra-fine powder features a three-color gradient to achieve a natural, diffused flush of color on the cheeks. Choose from four blush gradient variations.",
+            "price":"10.50",
+            "image":"public/images/blush/colorroseoilpaintingblush.webp",
+            "gallery":[
+                "/images/blush/colorroseoilpaintingblush1.webp",
+                "/images/blush/colorroseoilpaintingblush2.webp",
+                "/images/blush/colorroseoilpaintingblush3.jpg",
+                "/images/blush/colorroseoilpaintingblush4.webp"
+            ]
+
+        },
+
+        {
+            "id":2,
+            "name":"CUTE RUMOUR- Special Edition Matte Blusher",
+            "description":"This powder blush in retro pocket watch-inspired packaging radiates fairytale vibes! The pigment-packed formula infused with mica delivers color to cheeks with a natural-looking matte finish. Blend out or amp up for effects ranging from natural-looking to punchy. The blush is available in three shades: #R04 Red Bean Music (rose pink), #R05 Iris Whisper (lavender), #R06 Nursery Rhymes (baby pink).",
+            "price":"27.28",
+            "image":"/images/blush/CuterumourBlush.webp",
+            "gallery":[
+                "/images/blush/CuterumourBlush1.jpeg",
+                "/images/blush/CuterumourBlush2.jpeg",
+                "/images/blush/CuterumourBlush3.jpeg",
+                "/images/blush/CuterumourBlush4.jpeg"
+
+            ]
+
+        }
+        ,
+
+        {
+            "id":3,
+            "name":"Flower Knows Chocolate Wonder Shop",
+            "description":"-Classic cameo brooch-like design, 3D engraved and matte texture, touchable check pattern with gold woven. Continuing the fantasy of Flower Knows with delicate emboss.",
+            "price":"22.40",
+            "image":"/images/blush/FlowerKnowsChocolateWondershop.jpg",
+            "gallery":[
+                "/images/blush/FloweKnowsChocolateWonderShop1.webp",
+                "/images/blush/FloweKnowsChocolateWonderShop2.webp",
+                "/images/blush/FloweKnowsChocolateWonderShop3.webp",
+                "/images/blush/FloweKnowsChocolateWonderShop4.webp"
+            ]
+            
+        },
+
+        
+        {
+            "id":4,
+            "name":"Gege Bear ~ Air Cushion Blusher",
+            "description":"This adorable cushion blush gives cheeks a healthy-looking glow and dewy finish. The formula offers incredible oil control and long-lasting wear. It comes with a soft puff for flawless application and easy touch-ups on the go.",
+            "price":"6.00",
+            "image":"/images/blush/gegebear.jpg",
+            "gallery":[
+                "/images/blush/gegebear1.webp",
+                "/images/blush/gegebear2.jpg",
+                "/images/blush/gegebear3.png",
+                "/images/blush/gegebear4.png"
+            ]
+        },
+
+        {
+            "id":5,
+            "name":"GIRLCUT ~ Saturn Peach Series",
+            "description":"This cream blusher is infused with moisturizing ingredients such as jojoba seed oil, meadowfoam seed oil and peach blossom extract for comfortable wear. Blush is embossed with GIRLCULT’s signature design, and it’s housed in a uniquely shaped case. Choose from various colors and finishes: #20 Fuwa Cake, #21 Plump Cake and #24 Peach Blossom Cake come in a semi-matte creamy texture, while #22 Blood Peach comes in a clear jelly texture.",
+            "price":"14.48",
+            "image":"/images/blush/girlcut.webp",
+            "gallery":[
+                "/images/blush/girlcut1.jpg",
+                "/images/blush/girlcut2.jpg",
+                "/images/blush/girlcut3.jpg",
+                "/images/blush/girlcut4.jpg"
+            ]
+        },
+        
+        {
+            "id":6,
+            "name":"GIRLCUT ~ Saturn Peach Series",
+            "description":"This cream blusher is infused with moisturizing ingredients such as jojoba seed oil, meadowfoam seed oil and peach blossom extract for comfortable wear. Blush is embossed with GIRLCULT’s signature design, and it’s housed in a uniquely shaped case. Choose from various colors and finishes: #20 Fuwa Cake, #21 Plump Cake and #24 Peach Blossom Cake come in a semi-matte creamy texture, while #22 Blood Peach comes in a clear jelly texture.",
+            "price":"14.48",
+            "image":"/images/blush/girlcut.webp",
+            "gallery":[
+                "/images/blush/girlcut1.jpg",
+                "/images/blush/girlcut2.jpg",
+                "/images/blush/girlcut3.jpg",
+                "/images/blush/girlcut4.jpg"
+            ]
+        }
+
+
+
+
+
+        
+    ]
+}

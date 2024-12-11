@@ -13,6 +13,7 @@
         "category":2,
         "name":"Colored Rose~ Lace Embossed Western Antique",
         "description":"With its ethereal design and lace embroidery, this lipstick is a lovely addition to any makeup collection. Its smooth and creamy formula glides effortlessly on the lips for comfortable all-day wear. Available in multiple soft-matte shades",
+        "shortdescription":"Give a classic look to your lips with this lipstick",
         "price":"6.96",
         "image":"/images/lipstick/colorrose.webp",
         "gallery":[
@@ -29,6 +30,7 @@
         "category":2,
         "name":"Romand- Milk Tea Velvet Tint",
         "description":"Perfect your pout with this lip product from a milk tea-inspired lip tint collection now available in brand new packaging! Combining vibrant and long-lasting color with a soft, velvety finish, this lip tint is a makeup bag must-have whatever the season. Comes in a range of MLBB shades, including #05 Vanilla Tea (brownish orange), #07 Rose Tea (dusty rose) and #09 Black Tea (blackish red).",
+        "shortdescription":"Milk Tea for your lips",
         "price":"10.00",
         "image":"/images/lipstick/romand.webp",
         "gallery":[
@@ -47,6 +49,7 @@
         "category":2,
         "name":"FLORTTE~ Limited edition Heart-Shaped lipstick",
         "description":"This lipstick in a pigmented and creamy formula provides a sheer-gloss finish for a natural juicy and plump appearance. The heart-shaped design of the lipstick fits the contours of your lips for smooth and effortless application. Available in three shades: #S04 Not Obedient, #S05 Hakimi and #S06 Too Cool.",
+        "shortdescription":"Lipstick with cute animals",
         "price":"7.70",
         "image":"/images/lipstick/florte.webp",
         "gallery":[
@@ -64,6 +67,7 @@
         "category":2,
         "name":"Art Value ~ Cute Bear Keychain Lip Mud",
         "description":"Boasting a soft, mud-like texture, this matte lip tint glides rich pigment on lips and smooths lip lines to help you achieve the coveted blurred lip look. Apply the product on the entire lip area for a fuller and more defined pout. Its bear keychain design allows you to attach it to your personal belongings for a cute and functional touch.",
+        "shortdescription":"A portable bear-shaped lip mud",
         "price":"3.90",
         "image":"/images/lipstick/artvalue.webp",
         "gallery":[
@@ -79,6 +83,7 @@
         "category":2,
         "name":"Gege Bear~ Lip Oil",
         "description":"Achieve a perfect glossy lip look with this subtly tinted transparent lip oil. The formula provides long-lasting moisture that softens fine lines for a soft and glowing finish.",
+        "shortdescription":"Moist your lips with this lip oil",
         "price":"4.70",
         "image":"/images/lipstick/gegebear.webp",
         "gallery":[
@@ -94,6 +99,7 @@
         "category":2,
         "name":"Dasique~ Melting Candy Balm",
         "description":"This Melting Candy Balm glides a sweet dash of color on the lips, leaving a candy-like glaze and irresistible shine. Packed with argan kernel oil, jojoba oil and raspberry fruit extract, the lip balm nourishes and hydrates the lips.",
+        "shortdescription":"Sweetnes for your lips",
         "price":"12.00",
         "image":"/images/lipstick/dasique.webp",
         "gallery":[
@@ -109,6 +115,7 @@
         "category":2,
         "name":"peripera~ Ink Mood Glowy Tint Lucky Lottery edition",
         "description":"Part of peripera’s Lottery Collection, this special edition of the brand’s bestselling Ink Mood Glowy Tint comes in exquisite packaging enlivened by a clear shamrock ornament on the shaft. Coming in three light cool tones, the uber-hydrating formula adds vivid color and major gloss to lips. Apply a single coat for low-key glam or layer up for a bold lip look.",
+        "shortdescription":"Bring luck to your life with this lipstick",
         "price":"9.70",
         "image":"/images/lipstick/peripera.webp",
         "gallery":[
@@ -124,6 +131,7 @@
         "category":2,
         "name":"Lovisia~ Pokemon Lip Cream",
         "description":"Keep your smackers supple and smooth with this cutesy lip balm featuring Pokemon’s Gangar character on the packaging and poke ball embossed on the lip balm itself. It contains moisturizing ingredients like honey extract, jojoba oil, shea butter and ceramide to hydrate and soften lips.",
+        "shortdescription":"Gotta Catch 'em All",
         "price":"8.70",
         "image":"/images/lipstick/lovisia.webp",
         "gallery":[
@@ -139,6 +147,7 @@
         "category":2,
         "name":"Handaiyan~ 2 in 1 liquid lip stain ",
         "description":"This liquid lip stain serves as both a long-lasting lip stain and a vibrant cheek tint. Infused with moisturizing ingredients, the non-sticky formula dries down quickly, allowing for seamless application. Available in six colors.",
+        "shortdescription":"A habdy 2 in 1 lip stain",
         "price":"3.50",
         "image":"/images/lipstick/handaiyan.webp",
         "gallery":[
@@ -155,6 +164,7 @@
          "category":2,
         "name":"ETUDE~ Over Glowy Tint",
         "description":"Give lips a dramatic glossy finish with ETUDE’s Over Glowy Tint. The richly pigmented formula offers high color payoff without any greasy feeling. Formulated with glycerin and squalane, the non-sticky formula keeps chapped lips at bay. Product is certified as vegan.",
+        "shortdescription":"Glow your lips with ETUDE lipstick",
         "price":"14.00",
         "image":"/images/lipstick/etude.webp",
         "gallery":[
@@ -171,6 +181,7 @@
             "category":2,
             "name":"fwee~ 3D Volumen Gloss",
             "description":"Make lips look glossy and voluminous with this lip gloss available in various colors and pigment intensity, from a 30% formulation for a natural look to a 70% formulation for a vivid color payoff. The innovative formula forms a coating on lips to seal in moisture. It comes with a tilted doe-foot applicator for easy application. Choose from various colors.",
+            "shortdescription":"The best for 3D volume",
             "price":"17.00",
             "image":"/images/lipstick/fwee.webp",
             "gallery":[
@@ -186,6 +197,7 @@
             "category":2,
             "name":"Flower Knows~ Violet Strawberry Rococo",
             "description":"Keep lips looking juicy and luscious with this lip gloss housed in rococo era-inspired perfume bottle-like packaging. Boasting a shimmery high-shine finish, the lip gloss glides on with ease and doesn’t settle into creases. Choose between two colors.",
+            "shortdescription":"The best lipstick for when you feel Rococco",
             "price":"20.00",
             "image":"/images/lipstick/flowerknows.webp",
             "gallery":[

@@ -62,7 +62,7 @@ app.get("/category3", (req,res)=>{
 
 app.get("/category1/details/:id", (req,res)=>{
     const data = require('./data/category_1.json')
-    let featured= require('./data/featuredProducts1.json')
+    // let featured= require('./data/featuredProducts1.json')
     //filter to get data that matches id
     console.log(data)
     var tempData = {"products":[]}
@@ -78,12 +78,12 @@ app.get("/category1/details/:id", (req,res)=>{
 
 
     console.log("data")
-    console.log("featured")
+    // console.log("featured")
     console.log(data)
-    console.log(featured)
+    // console.log(featured)
     
    
-    res.render('details', {"data":tempData, 'featured': featured.products})
+    res.render('details', {"data":tempData})
 
 })
 
@@ -120,9 +120,7 @@ app.get("/category3/details/:id", (req,res)=>{
     console.log(data)
     
    
-    res.render('details', {"data":tempData,
-        featuredProducts1
-    })
+    res.render('details', {"data":tempData})
 
 
 })

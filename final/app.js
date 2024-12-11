@@ -35,7 +35,7 @@ app.get("/", (req,res)=>{
 
 app.get("/about", (req,res)=>{
     const data = require('./data/about.json')
-    res.render('page', {data})
+    res.render('aboutUs', {data})
 })
 
 app.get("/category1", (req,res)=>{

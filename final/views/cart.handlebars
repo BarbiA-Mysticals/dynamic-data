@@ -1,7 +1,9 @@
 <h1>Cart</h1>
 
 {{#each products}}
-   {{this.image}}  {{this.id}} {{this.name}} {{this.description}} {{this.price}} 
+   <img src="{{this.image}}" class="galleryimage" alt="">  <h3 class="subtitle">{{this.name}}</h3> <p>{{this.description}}</p> <p>Price:{{this.price}} </p>
    <hr>
 
 {{/each}}
+
+{{>checkoutform}}

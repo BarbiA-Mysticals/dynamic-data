@@ -1,6 +1,10 @@
 {  
-    
-    "Name": "Blush",
+    "image1" : "/images/blush/MidsummerFairytalesBlush.webp",
+    "image2": "/images/blush/CuterumourBlush.webp",
+    "image3":"/images/blush/LittleAngelBlush.webp",
+    "image4":"/images/blush/colorroseoilpaintingblush.webp",
+    "Name": "Blushes",
+     
 
 
     "products":[
@@ -9,8 +13,9 @@
             "category":1,
             "name":"Colored Rose Oil Painting Brush",
             "description":"Oil Painting Gradient Blusher housed in a oval compact with an ornate, antique-inspired oil painting. The ultra-fine powder features a three-color gradient to achieve a natural, diffused flush of color on the cheeks. Choose from four blush gradient variations.",
+            "shortdescription":"Antique-inspire brush",
             "price":"10.50",
-            "image":"public/images/blush/colorroseoilpaintingblush.webp",
+            "image":"/images/blush/colorroseoilpaintingblush.webp",
             "gallery":[
                 "/images/blush/colorroseoilpaintingblush1.webp",
                 "/images/blush/colorroseoilpaintingblush2.webp",
@@ -22,8 +27,10 @@
 
         {
             "id":2,
+            "category":1,
             "name":"CUTE RUMOUR- Special Edition Matte Blusher",
             "description":"This powder blush in retro pocket watch-inspired packaging radiates fairytale vibes! The pigment-packed formula infused with mica delivers color to cheeks with a natural-looking matte finish. Blend out or amp up for effects ranging from natural-looking to punchy. The blush is available in three shades: #R04 Red Bean Music (rose pink), #R05 Iris Whisper (lavender), #R06 Nursery Rhymes (baby pink).",
+            "shortdescription":"Bunny Blush!",
             "price":"27.28",
             "image":"/images/blush/CuterumourBlush.webp",
             "gallery":[
@@ -39,15 +46,17 @@
 
         {
             "id":3,
+            "category":1,
             "name":"Flower Knows Chocolate Wonder Shop",
             "description":"-Classic cameo brooch-like design, 3D engraved and matte texture, touchable check pattern with gold woven. Continuing the fantasy of Flower Knows with delicate emboss.",
+            "shortdescription":"classic-inspired blush meets chocolate.",
             "price":"22.40",
             "image":"/images/blush/FlowerKnowsChocolateWondershop.jpg",
             "gallery":[
-                "/images/blush/FloweKnowsChocolateWonderShop1.webp",
-                "/images/blush/FloweKnowsChocolateWonderShop2.webp",
-                "/images/blush/FloweKnowsChocolateWonderShop3.webp",
-                "/images/blush/FloweKnowsChocolateWonderShop4.webp"
+                "/images/blush/FlowerKnowsChocolateWondershop1.webp",
+                "/images/blush/FlowerKnowsChocolateWondershop2.webp",
+                "/images/blush/FlowerKnowsChocolateWondershop3.webp",
+                "/images/blush/FlowerKnowsChocolateWondershop4.webp"
             ]
             
         },
@@ -55,8 +64,10 @@
         
         {
             "id":4,
+            "category":1,
             "name":"Gege Bear ~ Air Cushion Blusher",
             "description":"This adorable cushion blush gives cheeks a healthy-looking glow and dewy finish. The formula offers incredible oil control and long-lasting wear. It comes with a soft puff for flawless application and easy touch-ups on the go.",
+            "shortdescription":"Antique-inspire blush",
             "price":"6.00",
             "image":"/images/blush/gegebear.jpg",
             "gallery":[
@@ -69,8 +80,10 @@
 
         {
             "id":5,
+            "category":1,
             "name":"GIRLCUT ~ Saturn Peach Series",
             "description":"This cream blusher is infused with moisturizing ingredients such as jojoba seed oil, meadowfoam seed oil and peach blossom extract for comfortable wear. Blush is embossed with GIRLCULT’s signature design, and it’s housed in a uniquely shaped case. Choose from various colors and finishes: #20 Fuwa Cake, #21 Plump Cake and #24 Peach Blossom Cake come in a semi-matte creamy texture, while #22 Blood Peach comes in a clear jelly texture.",
+            "shortdescription":"Sun motif blush",
             "price":"14.48",
             "image":"/images/blush/girlcut.webp",
             "gallery":[
@@ -83,22 +96,167 @@
         
         {
             "id":6,
-            "name":"GIRLCUT ~ Saturn Peach Series",
-            "description":"This cream blusher is infused with moisturizing ingredients such as jojoba seed oil, meadowfoam seed oil and peach blossom extract for comfortable wear. Blush is embossed with GIRLCULT’s signature design, and it’s housed in a uniquely shaped case. Choose from various colors and finishes: #20 Fuwa Cake, #21 Plump Cake and #24 Peach Blossom Cake come in a semi-matte creamy texture, while #22 Blood Peach comes in a clear jelly texture.",
-            "price":"14.48",
-            "image":"/images/blush/girlcut.webp",
+            "category":1,
+            "name":"Flower Knows~ Little Angel Cream Blusher",
+            "description":"Give your cheeks a natural yet vibrant flush of color with this blush in the shade 01 Flaming Heart. It’s housed in an ornate case in a stained glass window-inspired design, and the cream blusher is embossed with an angel design. The formula blends easily and adheres well on cheeks for a long-lasting finish.",
+            "shortdescription":"Angelic Blush",
+            "price":"26.00",
+            "image":"/images/blush/LittleAngelBlush.webp",
             "gallery":[
-                "/images/blush/girlcut1.jpg",
-                "/images/blush/girlcut2.jpg",
-                "/images/blush/girlcut3.jpg",
-                "/images/blush/girlcut4.jpg"
+                "/images/blush/LittleAngelBlush1.webp",
+                "/images/blush/LittleAngelBlush2.webp",
+                "/images/blush/LittleAngelBlush3.webp",
+                "/images/blush/LittleAngelBlush4.webp"
             ]
+        },
+
+        {
+            "id":7,
+            "category":1,
+            "name":"Midsummer Fairytales Velvet Embossed Blush",
+            "description":"This cream blusher is infused with moisturizing ingredients such as jojoba seed oil, meadowfoam seed oil and peach blossom extract for comfortable wear. Blush is embossed with GIRLCULT’s signature design, and it’s housed in a uniquely shaped case. Choose from various colors and finishes: #20 Fuwa Cake, #21 Plump Cake and #24 Peach Blossom Cake come in a semi-matte creamy texture, while #22 Blood Peach comes in a clear jelly texture.",
+            "shortdescription":"A blush for a midsummer night",
+            "price":"26.00",
+            "image":"/images/blush/MidsummerFairytalesBlush.webp",
+            "gallery":[
+                "/images/blush/MidsummerFairytalesBlush1.jpg",
+                "/images/blush/MidsummerFairytalesBlush2.jpg",
+                "/images/blush/MidsummerFairytalesBlush3.jpg",
+                "/images/blush/MidsummerFairytalesBlush4.jpg"
+            ]
+        },
+
+        {
+            "id":8,
+            "category":1,
+            "name":"Flower Knows~ Moonlight Mermaid Blush",
+            "description":"Add a soft natural flush to your cheeks with this blush in packaging inspired by dreamy cloud colors. The tri-color gradient blush features soft powder for smooth and effortless application onto cheeks. Blush is embossed with an elegant mermaid pattern. Available in #02 Moodlight Dawn offering pastel pink and baby blue shades.",
+            "shortdescription":"Aquatic blush",
+            "price":"26.00",
+            "image":"/images/blush/MoonlightMermaid.jpg",
+            "gallery":[
+                "/images/blush/MoonlightMermaid1.webp",
+                "/images/blush/MoonlightMermaid2.webp",
+                "/images/blush/MoonlightMermaid3.jpg",
+                "/images/blush/MoonlightMermaid4.webp"
+            ]
+        },
+
+        {
+            "id":9,
+            "category":1,
+            "name":"Flower Knows~ Strawberry Rococco Embossed Blush",
+            "description":"Give cheeks a rosy glow with this powder blush in a soft rose pink shade. It offers a sheer color payoff that can be easily built up from a subtle flush to a full-on look. Housed in Rococo-esque packaging inspired by antique medallions, the powder comes embossed with vintage patterns for old-world appeal.",
+            "shortdescription":"French Rococco blush",
+            "price":"26.00",
+            "image":"/images/blush/strawberryroccoco.webp",
+            "gallery":[
+                "/images/blush/strawberryroccoco1.webp",
+                "/images/blush/strawberryroccoco2.webp.jpg",
+                "/images/blush/strawberryroccoco3.jpg.png",
+                "/images/blush/strawberryroccoco4.jpg"                                               
+            ]
+        },
+
+        {
+
+             "id":10,
+             "category":1,
+            "name":"Flower Knows~ Swan Ballet Velvet Blusher",
+            "description":"Give your cheeks a rosy glow with this powder blush in a soft peach shade. The ultra-fine powder absorbs sweat and sebum for excellent adhesive power and a long-lasting finish. Housed in an ornate case inspired by the ballet Swan Lake, the powder comes embossed with swan and ballerina prints.",
+            "shortdescription":"Be a swan with this blush",
+            "price":"26.00",
+            "image":"/images/blush/swanballetembossed.webp",
+            "gallery":[
+                "/images/blush/swanballetembossed1.jpg",
+                "/images/blush/swanballetembossed2.jpg",
+                "/images/blush/swanballetembossed3.jpg",
+                "/images/blush/swanballetembossed4.jpg"                                           
+            ]
+        },
+
+        {
+
+                "id":11,
+                "category":1,
+                "name":"Yigu Digu ~ Diary Series Blush",
+                "description":"Channel doll-like vibes with this multi-tasking blush and lip cream encased in a retro-style tin designed with cutesy rabbit prints. It boasts a creamy smooth formula that leaves a velvety finish with vivid color payoff. Comes in six matte colors.",
+                "shortdescription":"With this blush you'll be as cute as a doll",
+                "price":"8.10",
+                "image":"/images/blush/yigodigo.webp",
+                "gallery":[
+                    "/images/blush/yigodigo1.jpg",
+                    "/images/blush/yigudigu2.webp",
+                    "/images/blush/yigudigu3.jpg",
+                    "/images/blush/yigudigu4.png"                                           
+                ]
+            },
+
+            {
+                "id":12,
+                "category":1,
+                "name":"Zeesea ~ Palace Identity Peony",
+                "description":"Inspired by Chinese royal aesthetics, this Insta-worthy blush features a beautifully embossed peony pattern on the cover and in the pan. The formula is infused with powder from seven different gems for a radiant, natural glow. Lightweight and highly blendable, the blush adapts to any makeup look and skin tone.",
+                "price":"17.55",
+                "image":"/images/blush/zeesea.webp",
+                "gallery":[
+                    "/images/blush/zeesea1.jpg",
+                    "/images/blush/zeesea2.jpg",
+                    "/images/blush/zeesea3.jpg",
+                    "/images/blush/zeesea4.png"                                           
+                ]
+            }
+        
+    ],
+
+    "featuredProducts":[
+        {
+            "id":1,
+            "category":1,
+            "name":"Colored Rose Oil Painting Brush",
+            "description":"Oil Painting Gradient Blusher housed in a oval compact with an ornate, antique-inspired oil painting. The ultra-fine powder features a three-color gradient to achieve a natural, diffused flush of color on the cheeks. Choose from four blush gradient variations.",
+            "shortdescription":"Antique-inspire brush",
+            "price":"10.50",
+            "image":"/images/blush/colorroseoilpaintingblush.webp"
+            
+
+        },
+
+        {
+            "id":2,
+            "category":1,
+            "name":"CUTE RUMOUR- Special Edition Matte Blusher",
+            "description":"This powder blush in retro pocket watch-inspired packaging radiates fairytale vibes! The pigment-packed formula infused with mica delivers color to cheeks with a natural-looking matte finish. Blend out or amp up for effects ranging from natural-looking to punchy. The blush is available in three shades: #R04 Red Bean Music (rose pink), #R05 Iris Whisper (lavender), #R06 Nursery Rhymes (baby pink).",
+            "shortdescription":"Bunny Blush!",
+            "price":"27.28",
+            "image":"/images/blush/CuterumourBlush.webp"
+
         }
+        ,
 
-
-
-
+        {
+            "id":3,
+            "category":1,
+            "name":"Flower Knows Chocolate Wonder Shop",
+            "description":"-Classic cameo brooch-like design, 3D engraved and matte texture, touchable check pattern with gold woven. Continuing the fantasy of Flower Knows with delicate emboss.",
+            "shortdescription":"classic-inspired brush meets chocolate.",
+            "price":"22.40",
+            "image":"/images/blush/FlowerKnowsChocolateWondershop.jpg"
+            
+        },
 
         
+        {
+            "id":4,
+            "category":1,
+            "name":"Gege Bear ~ Air Cushion Blusher",
+            "description":"This adorable cushion blush gives cheeks a healthy-looking glow and dewy finish. The formula offers incredible oil control and long-lasting wear. It comes with a soft puff for flawless application and easy touch-ups on the go.",
+            "price":"6.00",
+            "image":"/images/blush/gegebear.jpg"
+        
+        }
     ]
+
+
+
 }

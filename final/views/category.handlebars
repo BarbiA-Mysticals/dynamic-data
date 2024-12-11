@@ -1,3 +1,8 @@
+{{>slider}}
+
+<h1>{{data.Name}}</h1>
+
+
 
  <div class="row owl-theme owl-carousel owl-packages">
 {{#each data.products}}
@@ -11,7 +16,7 @@
    <li class="list-group-item">${{this.price}}</li>
    <li class="list-group-item"><a href="/category{{this.category}}/details/{{this.id}}">View product details</a>
   </li>
-   <li class="list-group-item"> {{>addcart}}</li>
+   <li class="list-group-item">{{>addcart}}</li>
  </ul>
 </div>
 {{/each}}

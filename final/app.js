@@ -8,7 +8,12 @@ const express = require('express')
 //create express server inside a variable called app
 
 const app= express()
+
+const bodyParser = require('body-parser')
+//Body parser nedds to be initalized.
+app.use(bodyParser.urlencoded({extended: true}))
 // import a package for handlebars 
+
 //specify static routes 
 app.use(express.static('public'))
 const expressHandlebars = require('express-handlebars')
@@ -52,8 +57,38 @@ app.get("/category3", (req,res)=>{
 })
 
 //details page 
+//setting featured var
+//  Trying to create the featured work but had a hard time, so opted out for now
+
 app.get("/category1/details/:id", (req,res)=>{
     const data = require('./data/category_1.json')
+    let featured= require('./data/featuredProducts1.json')
+    //filter to get data that matches id
+    console.log(data)
+    var tempData = {"products":[]}
+  
+    
+  tempData.products = data.products.filter((product)=>{
+        return product.id == req.params.id
+    })
+
+    // featured.products = featured.products.filter((product)=>{
+    //     return product.id == req.params.id
+    // })
+
+
+    console.log("data")
+    console.log("featured")
+    console.log(data)
+    console.log(featured)
+    
+   
+    res.render('details', {"data":tempData, 'featured': featured.products})
+
+})
+
+app.get("/category2/details/:id", (req,res)=>{
+    const data = require('./data/category_2.json')
     //filter to get data that matches id
     console.log(data)
     var tempData = {"products":[]}
@@ -69,6 +104,30 @@ app.get("/category1/details/:id", (req,res)=>{
 
 })
 
+app.get("/category3/details/:id", (req,res)=>{
+    const data = require('./data/category_3.json')
+
+    //filter to get data that matches id
+    console.log(data)
+    var tempData = {"products":[]}
+    
+
+    tempData.products = data.products.filter((product)=>{
+        return product.id == req.params.id
+    })
+
+    console.log("data")
+    console.log(data)
+    
+   
+    res.render('details', {"data":tempData,
+        featuredProducts1
+    })
+
+
+})
+
+
 let cart = {"products":[]}
 
 app.get("/cart", (req,res)=>{
@@ -83,6 +142,13 @@ app.get("/cart", (req,res)=>{
     }
     res.render("cart",{"products":cart.products})
 })
+
+
+// app.get("/thankyou"){
+//     const data = require('./data/thankyou.json');
+
+
+// }
 
 
 

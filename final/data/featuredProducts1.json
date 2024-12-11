@@ -1,0 +1,46 @@
+{
+    
+    "Products":[
+
+        {
+            "id":5,
+            "category":1,
+            "name":"GIRLCUT ~ Saturn Peach Series",
+            "description":"This cream blusher is infused with moisturizing ingredients such as jojoba seed oil, meadowfoam seed oil and peach blossom extract for comfortable wear. Blush is embossed with GIRLCULT’s signature design, and it’s housed in a uniquely shaped case. Choose from various colors and finishes: #20 Fuwa Cake, #21 Plump Cake and #24 Peach Blossom Cake come in a semi-matte creamy texture, while #22 Blood Peach comes in a clear jelly texture.",
+            "price":"14.48",
+            "image":"/images/blush/girlcut.webp"
+            
+        },
+        
+        {
+            "id":6,
+            "category":1,
+            "name":"Flower Knows~ Little Angel Cream Blusher",
+            "description":"Give your cheeks a natural yet vibrant flush of color with this blush in the shade 01 Flaming Heart. It’s housed in an ornate case in a stained glass window-inspired design, and the cream blusher is embossed with an angel design. The formula blends easily and adheres well on cheeks for a long-lasting finish.",
+            "price":"26.00",
+            "image":"/images/blush/LittleAngelBlush.webp"
+           
+        },
+
+        {
+            "id":7,
+            "category":1,
+            "name":"Midsummer Fairytales Velvet Embossed Blush",
+            "description":"This cream blusher is infused with moisturizing ingredients such as jojoba seed oil, meadowfoam seed oil and peach blossom extract for comfortable wear. Blush is embossed with GIRLCULT’s signature design, and it’s housed in a uniquely shaped case. Choose from various colors and finishes: #20 Fuwa Cake, #21 Plump Cake and #24 Peach Blossom Cake come in a semi-matte creamy texture, while #22 Blood Peach comes in a clear jelly texture.",
+            "price":"26.00",
+            "image":"/images/blush/MidsummerFairytalesBlush.webp"
+           
+        },
+
+        {
+            "id":8,
+            "category":1,
+            "name":"Flower Knows~ Moonlight Mermaid Blush",
+            "description":"Add a soft natural flush to your cheeks with this blush in packaging inspired by dreamy cloud colors. The tri-color gradient blush features soft powder for smooth and effortless application onto cheeks. Blush is embossed with an elegant mermaid pattern. Available in #02 Moodlight Dawn offering pastel pink and baby blue shades.",
+            "price":"26.00",
+            "image":"/images/blush/MoonlightMermaid.jpg"
+            
+        }
+
+    ]
+}

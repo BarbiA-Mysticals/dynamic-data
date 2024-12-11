@@ -1,0 +1,25 @@
+{"fields":[
+
+       { "type" : "text",
+        "value" : "Name",
+         "name": "name"
+        },
+
+        { "type" : "text",
+            "value" : "Adress",
+            "name": "adress"
+
+        },
+
+        { "type" : "text",
+          "value" : "email",
+          "name": "email"
+         },
+
+        { "type" : "text",
+         "value" : "Phone  Number",
+         "name": "phone_number"
+
+        }
+    ]
+}

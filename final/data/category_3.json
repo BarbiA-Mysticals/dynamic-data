@@ -1,0 +1,275 @@
+{
+    "image1" : "/images/eyes/isehaneyeliner.webp",
+    "image2": "/images/eyes/etude.webp",
+    "image3":"/images/eyes/colorrose.webp",
+    "image4":"/images/eyes/aimo.webp",
+    "Name": "Eyes",
+     
+    
+    
+    "products":[
+        {
+            "id":1,
+            "category":3,
+            "name":"Judydoll~ 3D curling Eyelash Iron Mascara",
+            "description":"Get long and curly lashes effortlessly with this mascara featuring a fiber-enriched formula that promises dramatic results and long-lasting hold. It comes with a slim and slightly angled metallic brush to coat every single lash without smudging or smearing.",
+            "price":"9.70",
+            "image":"/images/eyes/judydoll.webp",
+            "gallery":[
+               "/images/eyes/judydoll1.jpg",
+                "/images/eyes/judydoll2.jpg",
+               "/images/eyes/judydoll3.jpg",
+                "/images/eyes/judydoll4.jpg"
+            ]
+    
+        },
+    
+        {
+            "id":2,
+            "category":3,
+            "name":"ISEHAN~ Kiss Me Heroine Liquid Eyeliner",
+            "description":"A deep, dazzling black eyeliner with an ultra fine, yet flexible tip for ease and precise application. Waterproof and sweat proof, the liquid eyeliner comes with a quick dry formula to prevent smudges and smears. Long wearing and with an intense shade, eyes are enhanced and defined for hours on end, without need of touch-ups.",
+            "price":"10.40",
+            "image":"/images/eyes/isehaneyeliner.webp",
+            "gallery":[
+                "/images/eyes/isehaneyeliner1.jpg",
+                "/images/eyes/isehaneyeliner2.jpg",
+                "/images/eyes/isehaneyeliner3.jpg",
+                "/images/eyes/isehaneyeliner4.jpg"
+    
+            ]
+    
+        }
+        ,
+    
+        {
+            "id":3,
+            "category":3,
+            "name":"ISEHAN~ Kiss Me Heroine Mascara Remover",
+            "description":"This speedy remover easily melts away waterproof mascara and eyeliner while nourishing skin with ginseng root and royal jelly extracts, as well as camellia oil, almond oil, argan oil and wild rose oil. Apply on dry lashes, then wipe with cotton pad and rinse with water",
+            "price":"8.80",
+            "image":"/images/eyes/isehanremover.webp",
+            "gallery":[
+                "/images/eyes/isehaneyremover1.jpg",
+                "/images/eyes/isehanremover2.jpg",
+                "/images/eyes/isehanremover3.jpg",
+                "/images/eyes/isehanremover4.jpg"
+            ]
+            
+        },
+    
+        
+        {
+            "id":4,
+            "category":3,
+            "name":"ISEHAN~ Kiss Me Heroine Make Long Up Mascara",
+            "description":"Waterproof and long-lasting mascara lengthens and curls lashes with each swipe for a luxe look. It’s formulated with almond oil, panax ginseng root extract, camellia oil, royal jelly extract, argon oil and rosehip oil to nourish lashes and prevent breakage. Comes in black and brown.",
+            "price":"14.50",
+            "image":"/images/eyes/isehanmascara.webp",
+            "gallery":[
+                "/images/eyes/isehanmascara1.jpg",
+                "/images/eyes/isehanmascara2.png",
+                "/images/eyes/isehanmascara3.jpg",
+                "/images/eyes/isehanmascara4.jpg"
+            ]
+        },
+    
+        {
+            "id":5,
+            "category":3,
+            "name":"ETUDE~ Curl Fix Mascara",
+            "description":"Volumizing mascara pumps up and adds heft and curl to every single lash for an all-day-long noticeable fringe with every application. Curl 24HR Tech lifts lashes and holds the curl while the soft dual Jelly Brush deftly coats each lash. No smudging or clumping. Triple-coating film provides superb definition and weightless volume with only a few careful swipes. Long-lasting, waterproof formula ensures that mascara stays put on lashes without straying or smudging, giving you fabulous lashes all day and night long.",
+            "price":"11.40",
+            "image":"/images/eyes/etude.webp",
+            "gallery":[
+               "/images/eyes/etude1.jpg",
+               "/images/eyes/etude2.png",
+                "/images/eyes/etude3.png",
+                "/images/eyes/etude4.png"
+            ]
+        },
+        
+        {
+            "id":6,
+            "category":3,
+            "name":"Art Value~ Liquid Shimmer Eyeshadow",
+            "description":"Housed in packaging adorned with ballerina-inspired details, this liquid eyeshadow boasts a high shimmery finish to complement various eye makeup looks. Comes in five stunning shades with different glitter particles.",
+            "price":"4.10",
+            "image":"/images/eyes/artvalue.webp",
+            "gallery":[
+               "/images/eyes/artvalue1.jpg",
+               "/images/eyes/artvalue2.jpg",
+               "/images/eyes/artvalue3.jpg",
+               "/images/eyes/artvalue4.jpg"
+
+            ]
+        },
+    
+        {
+            "id":7,
+            "category":3,
+            "name":"COLORROSE~ Oil Painting Eyeshadow Palette ",
+            "description":"This antique oil painting-inspired eyeshadow and blush palette contains nine muted colors perfect for the S/S season. Its colors in a variety of matte and shimmery textures can help you achieve a flawless makeup look. The case is decorated with intricate designs reminiscent of an ornate framed painting, making it a charming addition to your vanity. Comes in two versions.",
+            "price":"17.40",
+            "image":"/images/eyes/colorrose.webp",
+            "gallery":[
+                "/images/eyes/colorrose1.jpg",
+                "/images/eyes/colorrose2.jpg",
+                "/images/eyes/colorrose3.jpg",
+                "/images/eyes/colorrose4.jpg"
+            ]
+        },
+    
+        {
+            "id":8,
+            "category":3,
+            "name":"Gege Bear~ Fiber Curly Mascara",
+            "description":"Give lashes natural-looking volume with Gege Bear’s Fiber Curly Mascara. The waterproof and smudge-proof formula ensures that your lash look lasts all day. It can be removed easily by using makeup remover.",
+            "price":"3.80",
+            "image":"/images/eyes/gegebear.webp",
+            "gallery":[
+               "/images/eyes/gegebear1.jpg",
+               "/images/eyes/gegebear2.jpg",
+               "/images/eyes/gegebear3.jpg",
+               "/images/eyes/gegebear1.jpg"
+            ]
+        },
+    
+        {
+            "id":9,
+            "category":3,
+            "name":"Aimo - Set of 3 Pairs: Volume Crisscross False",
+            "description":"These falsies are made of synthetic fibers and arranged in criss-cross style to give your eyes a more mesmerizing lash look. Comes in three pairs.",
+            "price":"4.20",
+            "image":"/images/eyes/aimo.webp",
+            "gallery":[
+                "/images/eyes/aimo1.jpg",
+                "/images/eyes/aimo2.jpg",
+                "/images/eyes/aimo3.jpg",
+                "/images/eyes/aimo1.jpg"
+                                                              
+            ]
+        },
+    
+        {
+    
+             "id":10,
+             "category":3,
+            "name":"Art Value - Dream Cat 4 Colours Eyeshadow Palette",
+            "description":"Create soft girl eye looks that suit your every mood with this four-pan eyeshadow palette that comes in a mix of matte and glittery finishes. Its stacked, bento box packaging with a kawaii kitten print design adds cute and playful touches. Can also be used on the cheeks to achieve a monochrome makeup look.",
+            "price":"6.30",
+            "image":"/images/eyes/artvaluecat.webp",
+            "gallery":[
+                "/images/eyes/artvaluecat1.jpg",
+                "/images/eyes/artvaluecat2.jpg",
+                "/images/eyes/artvaluecat3.jpg",
+                "/images/eyes/artvaluecat4.jpg"
+
+            ]
+        },
+    
+        {
+    
+                "id":11,
+                "category":3,
+                "name":"ROZO - Cat Print Fine Liquid Eyeliner / Aegyosal Pen",
+                "description":"Define your eyes with this liquid eyeliner that features an ultra-fine 0.01mm pen tip for precise application. Its product packaging is adorned with adorable cat head motifs for kawaii appeal. Choose from various shades including dark colors (such as A11# Black and A12# Tea Brown) to accentuate the eyes, or light shades (such as A15# Light Aegyosal and A16# Pearl) to draw aegyo sal.",
+                "price":"3.30",
+                "image":"/images/eyes/rozo.webp",
+                "gallery":[
+                   "/images/eyes/rozo1.jpg",    
+                   "/images/eyes/rozo2.jpg", 
+                   "/images/eyes/rozo3.jpg",
+                   "/images/eyes/rozo4.jpg"                                       
+                ]
+            },
+    
+            {
+                "id":12,
+                "category":2,
+                "name":"Flower Knows~ Eyeshadow Palette - #03 Pink Swan",
+                "description":"This eye shadow palette features six pink and brown shades in matte and shimmery finishes for creating romantic eye makeup looks. The highly pigmented formula spreads on smoothly and adheres tightly for long-lasting glam. Housed in an ornate case inspired by the ballet Swan Lake, the powder comes embossed with pointe shoes and tutu prints.",
+                "price":"35.00",
+                "image":"/images/eyes/flowerknows.webp",
+                "gallery":[
+                    "/images/eyes/flowerknows1.jpg",
+                    "/images/eyes/flowerknows2.jpg",
+                    "/images/eyes/flowerknows3.jpg",
+                    "/images/eyes/flowerknows4.jpg"                                           
+                ]
+            }
+        ],
+
+        "featuredProducts":[
+            {
+                "id":1,
+                "category":3,
+                "name":"Judydoll~ 3D curling Eyelash Iron Mascara",
+                "description":"Get long and curly lashes effortlessly with this mascara featuring a fiber-enriched formula that promises dramatic results and long-lasting hold. It comes with a slim and slightly angled metallic brush to coat every single lash without smudging or smearing.",
+                "price":"9.70",
+                "image":"/images/eyes/judydoll.webp",
+                "gallery":[
+                   "/images/eyes/judydoll1.jpg",
+                    "/images/eyes/judydoll2.jpg",
+                   "/images/eyes/judydoll3.jpg",
+                    "/images/eyes/judydoll4.jpg"
+                ]
+        
+            },
+        
+            {
+                "id":2,
+                "category":3,
+                "name":"ISEHAN~ Kiss Me Heroine Liquid Eyeliner",
+                "description":"A deep, dazzling black eyeliner with an ultra fine, yet flexible tip for ease and precise application. Waterproof and sweat proof, the liquid eyeliner comes with a quick dry formula to prevent smudges and smears. Long wearing and with an intense shade, eyes are enhanced and defined for hours on end, without need of touch-ups.",
+                "price":"10.40",
+                "image":"/images/eyes/isehaneyeliner.webp",
+                "gallery":[
+                    "/images/eyes/isehaneyeliner1.jpg",
+                    "/images/eyes/isehaneyeliner2.jpg",
+                    "/images/eyes/isehaneyeliner3.jpg",
+                    "/images/eyes/isehaneyeliner4.jpg"
+        
+                ]
+        
+            }
+            ,
+        
+            {
+                "id":3,
+                "category":3,
+                "name":"ISEHAN~ Kiss Me Heroine Mascara Remover",
+                "description":"This speedy remover easily melts away waterproof mascara and eyeliner while nourishing skin with ginseng root and royal jelly extracts, as well as camellia oil, almond oil, argan oil and wild rose oil. Apply on dry lashes, then wipe with cotton pad and rinse with water",
+                "price":"8.80",
+                "image":"/images/eyes/isehanremover.webp",
+                "gallery":[
+                    "/images/eyes/isehaneyremover1.jpg",
+                    "/images/eyes/isehanremover2.jpg",
+                    "/images/eyes/isehanremover3.jpg",
+                    "/images/eyes/isehanremover4.jpg"
+                ]
+                
+            },
+        
+            
+            {
+                "id":4,
+                "category":3,
+                "name":"ISEHAN~ Kiss Me Heroine Make Long Up Mascara",
+                "description":"Waterproof and long-lasting mascara lengthens and curls lashes with each swipe for a luxe look. It’s formulated with almond oil, panax ginseng root extract, camellia oil, royal jelly extract, argon oil and rosehip oil to nourish lashes and prevent breakage. Comes in black and brown.",
+                "price":"14.50",
+                "image":"/images/eyes/isehanmascara.webp",
+                "gallery":[
+                    "/images/eyes/isehanmascara1.jpg",
+                    "/images/eyes/isehanmascara2.png",
+                    "/images/eyes/isehanmascara3.jpg",
+                    "/images/eyes/isehanmascara4.jpg"
+                ]
+            }
+
+        ]
+    }
+        
+    
+    
+    

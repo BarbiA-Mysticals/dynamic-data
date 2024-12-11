@@ -1,12 +1,35 @@
+<h1>hola</h1>
 {{#each data.products}}
-    {{this.image}}
-    {{this.id}} {{this.name}} {{this.price}} <br>
-        {{#each this.gallery}}
-        {{this}}
+    
+     <img src="{{this.image}}" class="displayImg" alt="">
+     <h2 class="">{{this.name}}</h2>
+     <p>{{this.description}}</p>
+     <p>Price: ${{this.price}}</p>
+    
+    {{>addcart}}
+
+         <div class="row owl-theme owl-carousel owl-packages">
+        {{#each this.gallery}}        
+        {{!-- Our image loop --}}
+        <img class="img-fluid card-img-top galleryimages " src="{{this}}" alt="">
+
         {{/each}}
-
-        {{>addcart}}
-
-
-
+        </div>
+     {{>featured}}
+     
+               
 {{/each}}
+
+
+
+
+
+
+
+
+
+
+
+
+        
+

@@ -1,0 +1,92 @@
+{
+    "image1" : "/images/blush/MidsummerFairytalesBlush.webp",
+    "image2": "/images/eyes/etude.webp",
+    "image3":"/images/lipstick/colorrose.webp",
+    "image4":"/images/eyes/aimo.webp",
+
+    "title":"✧༺♥༻∞Welcome to Cutesy Makeup✧༺♥༻∞",
+
+    "subtitle1":"Featured Products :)",
+    "subtitle2": "Featured Categories :)",
+
+    "featuredProducts":[
+
+        {
+                "id":3,
+                "category":3,
+                "name":"ISEHAN~ Kiss Me Heroine Mascara Remover",
+                "price":"8.80",
+                "image":"/images/eyes/isehanremover.webp"
+
+            
+        
+           
+
+        },
+
+        {
+            "id":7,
+            "category":2,
+            "name":"peripera~ Ink Mood Glowy Tint Lucky Lottery edition",
+            "price":"9.70",
+            "image":"/images/lipstick/peripera.webp"
+            
+        },
+
+        {
+            "id":6,
+            "category":1,
+            "name":"Flower Knows~ Little Angel Cream Blusher",
+            "description":"Give your cheeks a natural yet vibrant flush of color with this blush in the shade 01 Flaming Heart. It’s housed in an ornate case in a stained glass window-inspired design, and the cream blusher is embossed with an angel design. The formula blends easily and adheres well on cheeks for a long-lasting finish.",
+            "price":"26.00",
+            "image":"/images/blush/LittleAngelBlush.webp"
+            
+        },
+
+        
+        {
+            "id":7,
+            "category":1,
+            "name":"Midsummer Fairytales Velvet Embossed Blush",
+            "description":"This cream blusher is infused with moisturizing ingredients such as jojoba seed oil, meadowfoam seed oil and peach blossom extract for comfortable wear. Blush is embossed with GIRLCULT’s signature design, and it’s housed in a uniquely shaped case. Choose from various colors and finishes: #20 Fuwa Cake, #21 Plump Cake and #24 Peach Blossom Cake come in a semi-matte creamy texture, while #22 Blood Peach comes in a clear jelly texture.",
+            "price":"26.00",
+            "image":"/images/blush/MidsummerFairytalesBlush.webp"
+            
+        }
+
+
+
+    
+
+    ],
+
+    "featuredCategories": [
+       { 
+        "image":"/images/blush/LittleAngelBlush.webp",
+        "name": "Blushes",
+        "category": 1
+        
+        
+
+        },
+
+        { 
+        "image":"/images/lipstick/peripera.webp",
+        "name": "Lipsticks",
+        "category":2
+            
+    
+         },
+
+        { 
+        "image": "/images/eyes/etude.webp",
+         "name": "Eyes",
+         "category":3
+        
+
+        }
+
+    ]
+    
+
+}

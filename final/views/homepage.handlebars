@@ -1,0 +1,37 @@
+{{>slider}}
+
+<h1>{{data.title}}</h1>
+
+<h2 class="subtitle">{{data.subtitle1}}</h2>
+
+<div class="row owl-theme owl-carousel owl-packages">
+{{#each data.featuredProducts}}
+<div class="card cardBody">
+ <img src="{{this.image}}" class="card-img-top" alt="...">
+ <div class="card-body ">
+   <h5 class="card-title">{{this.name}}</h5>
+ </div>
+ <ul class="list-group list-group-flush">
+   <li class="list-group-item">${{this.price}}</li>
+   <li class="list-group-item"><a href="/category{{this.category}}/details/{{this.id}}">View product details</a>
+  </li>
+   <li class="list-group-item">{{>addcart}}</li>
+ </ul>
+</div>
+{{/each}}
+</div>
+
+<h2 class="subtitle">{{data.subtitle2}}</h2>
+
+<div class="row owl-theme owl-carousel owl-packages">
+{{#each data.featuredCategories}}
+<div class="card cardBody">
+ <img src="{{this.image}}" class="card-img-top" alt="...">
+ <div class="card-body ">
+   <h5 class="card-title"><a href="/category{{this.category}}">{{this.name}}</a></h5>
+ </div>
+</div>
+{{/each}}
+</div>
+
+

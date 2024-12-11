@@ -1,0 +1,20 @@
+<h2 class="subtitle">{{featured.subtitle}}</h2>
+{{!-- <div class="row owl-theme owl-carousel owl-packages"></div> --}}
+{{#each featured.featuredProducts}}
+
+<div class="card cardBody">
+ <img src="{{this.image}}" class="card-img-top" alt="...">
+ <div class="card-body ">
+   <h5 class="card-title">{{this.name}}</h5>
+ </div>
+ <ul class="list-group list-group-flush">
+   <li class="list-group-item">${{this.price}}</li>
+   <li class="list-group-item"><a href="/category{{this.category}}/details/{{this.id}}">View product details</a>
+  </li>
+   <li class="list-group-item">{{>addcart}}</li>
+ </ul>
+</div>
+</div>
+{{/each}}
+
+
